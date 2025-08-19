@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Don Jo Rois</h1>
-<h3 align="center">A passionate Python & Full Stack Developer</h3>
+<h3 align="center">A Python & Full Stack Developer who codes, learns, and grows every day 🚀</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donjorois&label=Profile%20views&color=0e75b6&style=flat" alt="donjorois" /> </p>
 
-- 🔭 I’m currently building **Full Stack applications with Django + React**
+- 🔭 Currently building **full stack applications with Django + React**
 
-- 🌱 I’m currently learning **Redux, Authentication, and PostgreSQL optimization**
+- 🌱 Deep-diving into **Data Structures & Algorithms, Web Networking (HTTP), and Databases (SQL)**
 
-- 💬 Ask me about **Python, Django, React, SQL, REST APIs**
+- 💬 Ask me about **Python, Django, React, SQL, REST APIs, and DSA**
 
-- 📂 Check out my series: [**Chai with Code**](#) ☕
+- 📂 Sharing my learning journey through [**Chai with Code ☕**](https://www.linkedin.com/posts/don-jo-rois_python-webscraping-langchain-activity-7324357860732100608-D72M?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEMXzeEBwB8YlZX3rZq_bDSJ4bzCjOgbhag)
 
 - 📫 Reach me at **[donjorois@gmail.com]**
 
-- ⚡ Fun fact: **I enjoy creating fun scripts, exploring new tech, and sharing knowledge**
+- ⚡ Fun fact: **I believe in consistent learning, experimenting, and growing one step at a time.**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -37,9 +37,3 @@
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=donjorois&show_icons=true&locale=en&layout=compact" alt="donjorois" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=donjorois&show_icons=true&locale=en" alt="donjorois" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=donjorois&" alt="donjorois" /></p>
