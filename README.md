@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Don Jo Rois</h1>
-<h3 align="center">A Python & Full Stack Developer who codes, learns, and grows every day 🚀</h3>
+<h3 align="center">A Software Engineer who codes, learns, and grows every day 🚀</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 
 
-- 🔭 Currently building **full stack applications with Django + React**
+- 🔭 Building scalable web applications and backend systems  
 
-- 🌱 Deep-diving into **Data Structures & Algorithms, Web Networking (HTTP), and Databases (SQL)**
+- ⚙️ Focused on clean architecture, problem solving, and writing maintainable code  
 
-- 💬 Ask me about **Python, Django, React, SQL, REST APIs, and DSA**
+- 🌱 Continuously improving in system design, data-driven thinking, and software fundamentals  
+
+- 💬 Open to discussions about software engineering, backend development, APIs, databases, and architecture  
+
 
 - 📂 Sharing my learning journey through [**Chai with Code ☕**](https://www.linkedin.com/posts/don-jo-rois_python-webscraping-langchain-activity-7324357860732100608-D72M?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEMXzeEBwB8YlZX3rZq_bDSJ4bzCjOgbhag)
 
